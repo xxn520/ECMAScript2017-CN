@@ -4,7 +4,7 @@ Ecma 标准定义了 ECMAScript 2017 语言规范。这是 ECMAScript 语言规�
 
 ECMAScript 基于一些开创性的技术，它们中最有名的就是网景的 JavaScript 和微软的 JScript。该语言由网景公司的 Brendan Eich 创造，并且首次出现在网景公司的 Navigator 2.0 浏览器中。网景公司随后发布的浏览器和微软 Internet Explorer 3.0 之后的浏览器，都用到了它。
 
-ECMAScript 语言标准的开发始于 1996 年 11 月。The first edition of this Ecma Standard was adopted by the Ecma General Assembly of June 1997.
+ECMAScript 语言标准的开发始于 1996 年 11 月。Ecma 标准的第一个版本是在 1997 年 6 月的 Ecma 大会上通过的。
 
-That Ecma Standard was submitted to ISO/IEC JTC 1 for adoption under the fast-track procedure, and approved as international standard ISO/IEC 16262, in April 1998. The Ecma General Assembly of June 1998 approved the second edition of ECMA-262 to keep it fully aligned with ISO/IEC 16262. Changes between the first and the second edition are editorial in nature.
+在快速通道下，该 Ecma 标准被提交给 ISO/IEC JTC 1 \(国际标准化组织/国际电工委员会的第一联合技术委员会\)，并在 1998 年 4 月被批准成为国际标准 ISO/IEC 16262。1998 年 6 月的 Ecma 大会通过了 ECMA-262 标准的第二个版本，来与国际标准 ISO/IEC 16262 对齐。第一版和第二版之间的变化是社论性质的。
 
