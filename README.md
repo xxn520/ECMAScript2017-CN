@@ -12,5 +12,5 @@ ECMAScript 语言标准的编制始于 1996 年 11 月。Ecma 标准的第一个
 
 在第三版发布之后，ECMAScript 因与万维网关联而被广泛接受，它也成为了所有浏览器支持的一种编程语言。很多有意义的工作开展起来，来编制 ECMAScript 的第四个版本。然而，这些工作没有作为 ECMAScript 的第四版完成和发布，一些内容被包含进了第六版。
 
-ECMAScript 的第五版（发布为 ECMA-262 5thedition\) 得到了大部分浏览器的实现，添加了一些第三版发布以来出现的新特性的支持，成为了事实上的语言标准。这些特性包括访问器属性，反射Such features include accessor properties, reflective creation and inspection of objects, program control of property attributes, additional array manipulation functions, support for the JSON object encoding format, and a strict mode that provides enhanced error checking and program security. The fifth edition was adopted by the Ecma General Assembly of December 2009.
+ECMAScript 的第五版（发布为 ECMA-262 5thedition\) 得到了大部分浏览器的实现，添加了一些第三版发布以来出现的新特性的支持，成为了事实上的语言标准。这些特性包括访问器属性，反射创建以及对象检测、属性特性的程序控制、新增的数组操作函数、JSON 对象编码格式、以及提供增强的错误检测和程序安全的严格模式。第五版在 2009 年 12 月的 Ecma 大会上通过。
 
