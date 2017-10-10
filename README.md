@@ -10,3 +10,7 @@ ECMAScript 语言标准的开发始于 1996 年 11 月。Ecma 标准的第一个
 
 标准的第三个版本介绍了强大的正则表达式、更好的字符串处理、新的控制语句、try/catch 异常处理、更严谨的错误定义、数字输出的格式化和为语言未来发展预留的一些小改动。ECMAScript 标准的第三版在 1999 年 12 月的 Ecma 大会上通过，对应的国际标准 ISO/IEC 16262:2002 在 2002 年 6 月发布。
 
+After publication of the third edition, ECMAScript achieved massive adoption in conjunction with the World Wide Web where it has become the programming language that is supported by essentially all web browsers. Significant work was done to develop a fourth edition of ECMAScript. However, that work was not completed and not published as the fourth edition of ECMAScript but some of it was incorporated into the development of the sixth edition.
+
+The fifth edition of ECMAScript \(published as ECMA-262 5thedition\) codified de facto interpretations of the language specification that have become common among browser implementations and added support for new features that had emerged since the publication of the third edition. Such features include accessor properties, reflective creation and inspection of objects, program control of property attributes, additional array manipulation functions, support for the JSON object encoding format, and a strict mode that provides enhanced error checking and program security. The fifth edition was adopted by the Ecma General Assembly of December 2009.
+
