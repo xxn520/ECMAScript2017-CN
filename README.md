@@ -14,3 +14,19 @@ ECMAScript 语言标准的编制始于 1996 年 11 月。Ecma 标准的第一个
 
 ECMAScript 的第五版（发布为 ECMA-262 5thedition\) 纸面化了很多事实上已经在浏览器形成共识的语言规范，并且增加了第三版发布以来出现的一些新功能的支持。这些特性包括访问器属性，反射创建以及对象检测、属性特性的程序控制、新增的数组操作函数、JSON 对象编码格式、以及提供增强的错误检测和程序安全的严格模式。第五版在 2009 年 12 月的 Ecma 大会上通过。
 
+第五版通过快速通道提交给 ISO/IEC JTC 1，成为了国际标准 ISO/IEC 16262:2011。Edition 5.1 of the ECMAScript Standard incorporated minor corrections and is the same text as ISO/IEC 16262:2011. The 5.1 Edition was adopted by the Ecma General Assembly of June 2011.
+
+Focused development of the sixth edition started in 2009, as the fifth edition was being prepared for publication. However, this was preceded by significant experimentation and language enhancement design efforts dating to the publication of the third edition in 1999. In a very real sense, the completion of the sixth edition is the culmination of a fifteen year effort. The goals for this addition included providing better support for large applications, library creation, and for use of ECMAScript as a compilation target for other languages. Some of its major enhancements included modules, class declarations, lexical block scoping, iterators and generators, promises for asynchronous programming, destructuring patterns, and proper tail calls. The ECMAScript library of built-ins was expanded to support additional data abstractions including maps, sets, and arrays of binary numeric values as well as additional support for Unicode supplemental characters in strings and regular expressions. The built-ins were also made extensible via subclassing. The sixth edition provides the foundation for regular, incremental language and library enhancements. The sixth edition was adopted by the General Assembly of June 2015.
+
+ECMAScript 2016 was the first ECMAScript edition released under Ecma TC39's new yearly release cadence and open development process. A plain-text source document was built from the ECMAScript 2015 source document to serve as the base for further development entirely on GitHub. Over the year of this standard's development, hundreds of pull requests and issues were filed representing thousands of bug fixes, editorial fixes and other improvements. Additionally, numerous software tools were developed to aid in this effort including Ecmarkup, Ecmarkdown, and Grammarkdown. ES2016 also included support for a new exponentiation operator and adds a new method to Array.prototype called`includes`.
+
+This specification introduces Async Functions, Shared Memory, and Atomics along with smaller language and library enhancements, bug fixes, and editorial updates. Async functions improve the asynchronous programming experience by providing syntax for promise-returning functions. Shared Memory and Atomics introduce a new[memory model](http://www.ecma-international.org/ecma-262/8.0/index.html#sec-memory-model)that allows multi-[agent](http://www.ecma-international.org/ecma-262/8.0/index.html#agent)programs to communicate using atomic operations that ensure a well-defined execution order even on parallel CPUs. This specification also includes new static methods on Object:`Object.values`,`Object.entries`, and`Object.getOwnPropertyDescriptors`.
+
+Dozens of individuals representing many organizations have made very significant contributions within Ecma TC39 to the development of this edition and to the prior editions. In addition, a vibrant community has emerged supporting TC39's ECMAScript efforts. This community has reviewed numerous drafts, filed thousands of bug reports, performed implementation experiments, contributed test suites, and educated the world-wide developer community about ECMAScript. Unfortunately, it is impossible to identify and acknowledge every person and organization who has contributed to this effort.
+
+Allen Wirfs-Brock  
+ECMA-262, 6thEdition Project Editor
+
+Brian Terlson  
+ECMA-262, 7thEdition Project Editor
+
