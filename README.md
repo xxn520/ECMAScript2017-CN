@@ -28,7 +28,7 @@ ECMAScript 的第五版（发布为 ECMA-262 5thedition\) 纸面化了很多事�
 > 4. 每年进入第 stage 4 个阶段的特性会成为当年进入规范的特性；
 > 5. 我们可以在所有阶段的特性都可以在 \[GitHub\]\([https://github.com/tc39/proposals](https://github.com/tc39/proposals%29%29\) 看到。
 
-此规范引入了异步函数、共享内存和原子操作、较小的语言和库增强功能、错误修复和文档更新。异步函数通过提供内置执行器和返回 Promise 对象的语法改进了异步编程的体验。Shared Memory and Atomics introduce a new[memory model](http://www.ecma-international.org/ecma-262/8.0/index.html#sec-memory-model)that allows multi-[agent](http://www.ecma-international.org/ecma-262/8.0/index.html#agent)programs to communicate using atomic operations that ensure a well-defined execution order even on parallel CPUs. This specification also includes new static methods on Object:`Object.values`,`Object.entries`, and`Object.getOwnPropertyDescriptors`.
+此规范引入了异步函数、共享内存和原子操作、较小的语言和库增强功能、错误修复和文档更新。异步函数通过提供内置执行器和返回 Promise 对象的语法改进了异步编程的体验。共享内存和原子操作引入了新的内存模型，它允许多代理程序使用原子操作进行通信，即使在并行CPU上也能确保定义良好的执行顺序。This specification also includes new static methods on Object:`Object.values`,`Object.entries`, and`Object.getOwnPropertyDescriptors`.
 
 > 译注：Generator 函数的执行必须靠执行器，在此之前我们需要 `co` 模块来为我们自动执行 Generator 函数。async 函数内置了执行器，有更好的语义和适用性。并且 async 函数返回为 Promise 对象，比起 Generator 函数返回 Iterator 方便很多。
 
