@@ -8,9 +8,7 @@
 
 符合 ECMAScript 标准的实现可能会提供超出本规范描述的其他类型、值、对象、属性和功能。另外，符合 ECMAScript 的实现可以为本规范描的对象提供本规范中未描述的属性以及用于这些属性的值，来说明书中描述的对象。
 
-A conforming implementation of ECMAScript may provide additional types, values, objects, properties, and functions beyond those described in this specification. In particular, a conforming implementation of ECMAScript may provide properties not described in this specification, and values for those properties, for objects that are described in this specification.
-
-A conforming implementation of ECMAScript may support program and regular expression syntax not described in this specification. In particular, a conforming implementation of ECMAScript may support program syntax that makes use of the “future reserved words” listed in subclause[11.6.2.2](http://www.ecma-international.org/ecma-262/8.0/index.html#sec-future-reserved-words)of this specification.
+符合 ECMAScript 标准的实现可能支持本规范中未描述的程序和正则表达式语法。另外，符合 ECMAScript 标准的实现可能支持使用本规范第 [11.6.2.2](http://www.ecma-international.org/ecma-262/8.0/index.html#sec-future-reserved-words) 条列出的 “未来保留字” 的程序语法。
 
 A conforming implementation of ECMAScript must not implement any extension that is listed as a Forbidden Extension in subclause[16.2](http://www.ecma-international.org/ecma-262/8.0/index.html#sec-forbidden-extensions).
 
