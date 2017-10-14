@@ -10,5 +10,5 @@
 
 符合 ECMAScript 标准的实现可能支持本规范中未描述的程序和正则表达式语法。另外，符合 ECMAScript 标准的实现可能支持使用本规范第 [11.6.2.2](http://www.ecma-international.org/ecma-262/8.0/index.html#sec-future-reserved-words) 条列出的 “未来保留字” 的程序语法。
 
-A conforming implementation of ECMAScript must not implement any extension that is listed as a Forbidden Extension in subclause[16.2](http://www.ecma-international.org/ecma-262/8.0/index.html#sec-forbidden-extensions).
+符合 ECMAScript 标准的实现必不能实现任何列出 16.2 章节中禁止的扩展。
 
