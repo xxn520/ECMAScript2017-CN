@@ -23,7 +23,7 @@ ECMAScript 的第五版（发布为 ECMA-262 5thedition\) 纸面化了很多事�
 > 译注：此处的按年度释放和开放发展策略具体如下：
 >
 > 1. Ecma 的第 39 号技术专家委员会（Technical Committee 39，简称TC39）负责制订 ECMAScript 标准，成员包括 Microsoft、Mozilla、Google 等大公司。 
-> 2. 任何人都可以向标准委员会（又称 TC39 委员会）提案，要求修改语言标准；
+> 2. 任何人都可以向 TC39 委员会提案，要求修改语言标准；
 > 3. 每个 ECMAScript 特性都会经历 stage 0 到 stage 4 的每一个阶段；
 >
 > 4. 每年进入第四个阶段的特性会成为当年进入规范的特性；
