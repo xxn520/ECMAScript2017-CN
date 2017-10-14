@@ -6,7 +6,7 @@
 
 符合 ECMAScript 标准的实现提供一个应用程序编程接口，支持需要适应不同人类语言和国家所使用的语言和文化约定的程序，实现该接口必须符合最新的 ECMA-402 规范。
 
-符合 ECMAScript 标准的实现可能会提供超出本规范描述的其他类型、值、对象、属性和功能。特别地，符合ECMAScript的实现可以提供本说明书中未描述的属性以及用于这些属性的值，用于本说明书中描述的对象。
+符合 ECMAScript 标准的实现可能会提供超出本规范描述的其他类型、值、对象、属性和功能。另外，符合 ECMAScript 的实现可以为本规范描的对象提供本规范中未描述的属性以及用于这些属性的值，来说明书中描述的对象。
 
 A conforming implementation of ECMAScript may provide additional types, values, objects, properties, and functions beyond those described in this specification. In particular, a conforming implementation of ECMAScript may provide properties not described in this specification, and values for those properties, for objects that are described in this specification.
 
