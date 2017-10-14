@@ -32,7 +32,7 @@ ECMAScript 的第五版（发布为 ECMA-262 5thedition\) 纸面化了很多事�
 
 > 译注：Generator 函数的执行必须靠执行器，在此之前我们需要 `co` 模块来为我们自动执行 Generator 函数。async 函数内置了执行器，有更好的语义和适用性。并且 async 函数返回为 Promise 对象，比起 Generator 函数返回 Iterator 方便很多。
 
-Dozens of individuals representing many organizations have made very significant contributions within Ecma TC39 to the development of this edition and to the prior editions. In addition, a vibrant community has emerged supporting TC39's ECMAScript efforts. This community has reviewed numerous drafts, filed thousands of bug reports, performed implementation experiments, contributed test suites, and educated the world-wide developer community about ECMAScript. Unfortunately, it is impossible to identify and acknowledge every person and organization who has contributed to this effort.
+TC39 委员会中来自许多组织的数十人为此版本的发展都做出了重大的贡献。另外，一个能够支持 TC39 的 ECMAScript 规范发展的活跃社区已经出现。In addition, a vibrant community has emerged supporting TC39's ECMAScript efforts. This community has reviewed numerous drafts, filed thousands of bug reports, performed implementation experiments, contributed test suites, and educated the world-wide developer community about ECMAScript. Unfortunately, it is impossible to identify and acknowledge every person and organization who has contributed to this effort.
 
 Allen Wirfs-Brock  
 ECMA-262, 6thEdition Project Editor
