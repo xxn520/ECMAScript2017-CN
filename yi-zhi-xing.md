@@ -2,9 +2,11 @@
 
 符合 ECMAScript 标准的实现必须提供和支持本规范中描述的所有类型、值、对象、属性、函数和程序语法语义。
 
-符合 ECMAScript 标准实现必须保证源文本的解释必须符合最新版本的 Unicode 标准和 ISO/IEC 10646。
+符合 ECMAScript 标准的实现必须保证源文本的解释必须符合最新版本的 Unicode 标准和 ISO/IEC 10646。
 
-A conforming implementation of ECMAScript that provides an application programming interface that supports programs that need to adapt to the linguistic and cultural conventions used by different human languages and countries must implement the interface defined by the most recent edition of ECMA-402 that is compatible with this specification.
+符合 ECMAScript 标准的实现提供一个应用程序编程接口，支持需要适应不同人类语言和国家所使用的语言和文化约定的程序，实现该接口必须符合最新的 ECMA-402 规范。
+
+符合 ECMAScript 标准的实现可能会提供超出本规范描述的其他类型、值、对象、属性和功能。特别地，符合ECMAScript的实现可以提供本说明书中未描述的属性以及用于这些属性的值，用于本说明书中描述的对象。
 
 A conforming implementation of ECMAScript may provide additional types, values, objects, properties, and functions beyond those described in this specification. In particular, a conforming implementation of ECMAScript may provide properties not described in this specification, and values for those properties, for objects that are described in this specification.
 
