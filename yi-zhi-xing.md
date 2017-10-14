@@ -1,12 +1,8 @@
 # 一致性
 
-A conforming implementation of ECMAScript must provide and support all the types, values, objects, properties, functions, and program syntax and semantics described in this specification.
-
 ECMAScript 的一致性实现必须提供和支持本规范中描述的所有类型、值、对象、属性、函数和程序语法语义。
 
-
-
-A conforming implementation of ECMAScript must interpret source text input in conformance with the latest version of the Unicode Standard and ISO/IEC 10646.
+ECMAScript 的一致性实现必须保证源文本的解释必须符合最新版本的 Unicode 标准和 ISO/IEC 10646。A conforming implementation of ECMAScript must interpret source text input in conformance with the latest version of the Unicode Standard and ISO/IEC 10646.
 
 A conforming implementation of ECMAScript that provides an application programming interface that supports programs that need to adapt to the linguistic and cultural conventions used by different human languages and countries must implement the interface defined by the most recent edition of ECMA-402 that is compatible with this specification.
 
