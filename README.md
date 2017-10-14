@@ -20,6 +20,16 @@ ECMAScript 的第五版（发布为 ECMA-262 5thedition\) 纸面化了很多事�
 
 此后，Ecma TC39 协会提出了按年度释放和开放发展策略，ECMAScript 2016 是在此策略下释出的第一个版本。一个从 ECMAScript 2015 源文档基础上构建出来的纯文本被托管在 GitHub 上，这个文档完整地描述了 ECMAScript 未来的发展。该标准在过去一年的发展中，成百上千的 pull requests 和 issues 被提交，它们代表了成百上千的 bug 修复、编辑修订和其他改进。此外，大量工具被开发出来来帮助这一工作，它们包括 Ecmarkup、Ecmarkdown 和 Grammarkdown 等。ES2016 的增加了两个新特性，分别是新的幂操作符以及在数组原型上增加了新的方法 `includes` 。
 
+> 译注：此处的按年度释放和开放发展策略具体如下：
+>
+> 1. 任何人都可以向标准委员会（又称 TC39 委员会）提案，要求修改语言标准；
+>
+> 2. 每个 ECMAScript 特性都会经历 stage 0 到 stage 4 的每一个阶段；
+>
+> 3. 每年进入第四个阶段的特性会成为当年进入规范的特性；
+>
+> 4. 我们可以在所有阶段的特性都可以在 \[GitHub\]\(https://github.com/tc39/proposals\) 看到。
+
 本规范（ECMAScript 2017）介绍了异步函数、共享内存与原子操作，This specification introduces Async Functions, Shared Memory, and Atomics along with smaller language and library enhancements, bug fixes, and editorial updates. Async functions improve the asynchronous programming experience by providing syntax for promise-returning functions. Shared Memory and Atomics introduce a new[memory model](http://www.ecma-international.org/ecma-262/8.0/index.html#sec-memory-model)that allows multi-[agent](http://www.ecma-international.org/ecma-262/8.0/index.html#agent)programs to communicate using atomic operations that ensure a well-defined execution order even on parallel CPUs. This specification also includes new static methods on Object:`Object.values`,`Object.entries`, and`Object.getOwnPropertyDescriptors`.
 
 Dozens of individuals representing many organizations have made very significant contributions within Ecma TC39 to the development of this edition and to the prior editions. In addition, a vibrant community has emerged supporting TC39's ECMAScript efforts. This community has reviewed numerous drafts, filed thousands of bug reports, performed implementation experiments, contributed test suites, and educated the world-wide developer community about ECMAScript. Unfortunately, it is impossible to identify and acknowledge every person and organization who has contributed to this effort.
